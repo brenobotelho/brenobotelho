@@ -24,8 +24,7 @@
   
   ![Snake animation](https://github.com/brenobotelho/brenobotelho/blob/output/github-contribution-grid-snake.svg)
   
-  ![Eana Hufwe](https://github.com/brenobotelho/brenobotelho/raw/3ce7e89a8c855d216fb2999677411439711afdf2/EanaHandwritingAnimatedDark.svg#gh-dark-mode-only)![Eana Hufwe](https://github.com/brenobotelho/brenobotelho/raw/b322cb383b852d7e6609681a8f4bff64932cd96e/EanaHandwritingAnimatedLight.svg#gh-light-mode-only)
-  
+ 
   
 
   
