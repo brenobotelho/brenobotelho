@@ -1,15 +1,36 @@
-# Olá, eu sou o Breno! 
-## Bem vindo ao meu perfil GitHub 👋
+<h3 align="center">
+  Bem-vindo(a) ao meu perfil!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-## Contatos:
+<!-- https://readme-typing-svg.demolab.com/demo/ -->
 
-<div>
-<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<p align="center">
+  <a href="https://github.com/brenobotelho/README.md"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=22&pause=1000&center=true&width=550&lines=Ol%C3%A1%2C+eu+sou+o+Breno!;Atualmente+eu+estudo+An%C3%A1lise+e+Desenvolvimento+de+Sistemas.;Sou+Desenvolvedor+Full-Stack+WEB;e+possuo+conhecimentos+nas+linguagens+de+;HTML%2C+CSS%2C+JavaScript%2C+PHP+e+React.;Assim+eu+estou+aqui+sempre+aprendendo+coisas+novas."</a>
+</p>
+  
+  <p align="center">
+  <a href="https://github.com/brenobotelho?tab=followers">
+    <img alt="seguidores" title="Seguidores no Github" src="https://custom-icon-badges.demolab.com/github/followers/brenobotelho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguidores&logoColor=white"/></a>
+  <a href="https://github.com/brenobotelho/Simple-View-Counter">
+    <img alt="views" title="Visualizações no Github" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+  </p>
+
+
+<!-- Social icons section -->
+<p align="center">
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </p>
+  
+  
+
+
+
+
+
+
 
 
   
@@ -26,6 +47,11 @@
   
  
   
+<!-- https://github.com/DenverCoder1 -->
+<!-- [https://github.com/DenverCoder1](https://github.com/anacaroliness9) -->
+<!-- https://github.com/clcmo -->
+<!-- https://github.com/Candida18 -->
+<!-- https://github.com/danielcaballero796 -->
 
   
   
