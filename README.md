@@ -6,7 +6,7 @@
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
 <p align="center">
-  <a href="https://github.com/brenobotelho/README.md"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=22&pause=1000&center=true&width=550&lines=Ol%C3%A1%2C+eu+sou+o+Breno!;Atualmente+eu+estudo+An%C3%A1lise+e+Desenvolvimento+de+Sistemas.;Sou+Desenvolvedor+Full-Stack+WEB;e+possuo+conhecimentos+nas+linguagens+de+;HTML%2C+CSS%2C+JavaScript%2C+PHP+e+React.;Assim+eu+estou+aqui+sempre+aprendendo+coisas+novas."</a>
+  <a href="https://github.com/brenobotelho/README.md"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=22&pause=1000&center=true&width=550&lines=Ol%C3%A1%2C+eu+sou+o+Breno!;Atualmente+eu+estudo+An%C3%A1lise+e+Desenvolvimento+de+Sistemas.;E+estou+aprimorando+minhas+habilidades+Full-Stack.;Possuo+conhecimentos+nas+linguagens+de+;HTML%2C+CSS%2C+JavaScript%2C+PHP+e+React.;Assim+eu+estou+aqui+sempre+aprendendo+coisas+novas."</a>
 </p>
   
   <p align="center">
@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </p>
   
-  
+  ![Made with love in Brazil](https://madewithlove.now.sh/br?heart=true&colorA=%2343bc34&colorB=%23ded70d&template=for-the-badge)
 
 
 
