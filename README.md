@@ -31,21 +31,28 @@
  <hr />
  
  
-Eu sou um Sênior no Pe. CRCE buscando BE em CSE. Gosto de codificar, projetar, inovar e experimentar. Sou uma pessoa entusiasmada e sociável que adora aceitar novos desafios e aprender novas habilidades. Adoro conhecer novas pessoas, trocar ideias e espalhar conhecimento e positividade.
+_Eu sou um desenvolvedor Full-Stack Web. Gosto de codificar, projetar, inovar e experimentar. Sou uma pessoa entusiasmada e sociável que adora aceitar novos desafios e aprender novas habilidades. Adoro conhecer novas pessoas, trocar ideias, espalhar conhecimentos e positividade._
 
 
 [<img src="https://api.daily.dev/devcards/dcd17b07b12e4e5197cdde276220837e.png?r=rb2" style="width:250px; height:350px; align:right" align="right"/>](https://app.daily.dev/brenobotelho "Perfil de Breno em Daily.dev")
+
+## Sobre
+
+* 🤿 I'm Post Gratuated on Artificial Intelligence;
+* 📚 Now, I'm learning about Google Analytics and AWS;
+* 📷 I shared some lessons about creating your website or meeting the Android's lifecycle on [studio urbanna](https://studiourbanna.github.io)!
+* 🎮 I like Soda, I love games and I love arts.
 
 
 
 ## 📊 Meus status no Github
 
-<p align="center">
+
 <a href="https://github.com/brenobotelho">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brenobotelho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brenobotelho&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+
   
   ![Snake animation](https://github.com/brenobotelho/brenobotelho/blob/output/github-contribution-grid-snake.svg)
   
