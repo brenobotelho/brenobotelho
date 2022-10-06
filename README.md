@@ -71,7 +71,8 @@ _Eu sou um desenvolvedor Full-Stack Web. Gosto de codificar, projetar, inovar e 
 <!-- https://github.com/danielcaballero796 -->
 <!-- https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github?gclid=EAIaIQobChMIh_u6yJ3J-gIVHkBIAB1cJwdtEAAYASAAEgLun_D_BwE -->
 <!-- https://github.com/iuricode/README-template/blob/main/badges/badges.md -->
-<!-- https://github.com/coderjojo/creative-profile-readme --> 
+<!-- https://github.com/coderjojo/creative-profile-readme -->
+<!-- https://github.com/DanAzevedo -->
 
  
   
