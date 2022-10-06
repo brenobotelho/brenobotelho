@@ -38,9 +38,7 @@ Eu sou um Sênior no Pe. CRCE buscando BE em CSE. Gosto de codificar, projetar, 
 
 
 
-
-  
-### ⚙️ &nbsp;GitHub Analytics
+## 📊 Meus status no Github
 
 <p align="center">
 <a href="https://github.com/brenobotelho">
