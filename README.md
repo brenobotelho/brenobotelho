@@ -45,7 +45,7 @@ _Eu sou um desenvolvedor Full-Stack Web. Gosto de codificar, projetar, inovar e 
 
 <br>
 
-## 🧰 Languages & Tools
+## 🧰 Linguagens e Ferramentas
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -71,6 +71,13 @@ _Eu sou um desenvolvedor Full-Stack Web. Gosto de codificar, projetar, inovar e 
 </a>
 </p>
 
+<hr />
+
+<br>
+
+<p align="center">
+	<img src="https://spotify-github-profile.vercel.app/api/view?uid=12181824518&cover_image=false&theme=default" />
+</p>
   
   ![Snake animation](https://github.com/brenobotelho/brenobotelho/blob/output/github-contribution-grid-snake.svg)
   
