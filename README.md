@@ -8,16 +8,6 @@
 <p align="center">
   <a href="https://github.com/brenobotelho/README.md"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=22&pause=1000&center=true&width=550&lines=Ol%C3%A1%2C+eu+sou+o+Breno!;Atualmente+eu+estudo+An%C3%A1lise+e+Desenvolvimento+de+Sistemas.;E+estou+aprimorando+minhas+habilidades+Full-Stack.;Possuo+conhecimentos+nas+linguagens+de+;HTML%2C+CSS%2C+JavaScript%2C+PHP+e+React.;Assim+eu+estou+aqui+sempre+aprendendo+coisas+novas."</a>
 </p>
-  
-  
-  <!-- SEGUIDORES E VISITAS -->
-  <p align="center">
-  <a href="https://github.com/brenobotelho?tab=followers">
-    <img alt="seguidores" title="Seguidores no Github" src="https://custom-icon-badges.demolab.com/github/followers/brenobotelho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguidores&logoColor=white"/></a>
-  <a href="https://github.com/brenobotelho/Simple-View-Counter">
-    <img alt="views" title="Visualizações no Github" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-  </p>
-  <!-- SEGUIDORES E VISITAS -->
 
 
 <!-- ICONES REDES SOCIAIS -->
