@@ -30,8 +30,8 @@ _Eu sou um desenvolvedor Full-Stack Web. Gosto de codificar, projetar, inovar e 
 ## Sobre
 
 * 👨🏻‍💻 Atualmente eu curso Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul;
-* 📚 Eu estou aprendendo JavaScript (Vanilla, Vue, React e Angular);
-* 🎮 Eu gosto de jogar videogame, me divertir com amigos e programar!
+* 📚 Possuo conhecimento em HTML, CSS e Javascript e estou aprendendo Vue JS, React e Laravel;
+* 🎮 Se você pode imaginar, você pode programar! 
 
 <br>
 
