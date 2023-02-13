@@ -22,7 +22,7 @@
  <hr />
  
  
-_Eu sou um desenvolvedor Full-Stack Web. Gosto de codificar, projetar, inovar e experimentar. Sou uma pessoa entusiasmada e sociável que adora aceitar novos desafios e aprender novas habilidades. Adoro conhecer novas pessoas, trocar ideias, espalhar conhecimentos e positividade._
+_O meu maior objetivo é se tornar um desenvolvedor Full Stack. Gosto de codificar, projetar, inovar e experimentar. Sou uma pessoa entusiasmada e sociável que adora aceitar novos desafios e aprender novas habilidades. Adoro conhecer novas pessoas, trocar ideias, espalhar conhecimentos e positividade._
 
 
 [<img src="https://api.daily.dev/devcards/dcd17b07b12e4e5197cdde276220837e.png?r=rb2" style="width:250px; height:350px; align:right" align="right"/>](https://app.daily.dev/brenobotelho "Perfil de Breno em Daily.dev")
@@ -30,7 +30,7 @@ _Eu sou um desenvolvedor Full-Stack Web. Gosto de codificar, projetar, inovar e 
 ## Sobre
 
 * 👨🏻‍💻 Atualmente eu curso Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul;
-* 📚 Possuo conhecimento em HTML, CSS e Javascript e estou aprendendo Vue JS, React e Laravel;
+* 📚 Possuo conhecimento em HTML, CSS, Javascript e estou aprendendo Vue JS, React e Laravel;
 * 🎮 Se você pode imaginar, você pode programar! 
 
 <br>
