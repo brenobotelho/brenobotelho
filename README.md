@@ -8,7 +8,7 @@
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+o+Breno!;Tenho+21+anos+e+res%C3%ADduo+em+S%C3%A3o+Paulo%2FSP.;Atualmente+eu+estudo+An%C3%A1lise+e+Desenvolvimento+de+Sistemas.;Possuo+conhecimento+nas+linguagens+de;HTML5%2C+CSS3%2C+Javascript+e+PHP.;Estou+tamb%C3%A9m+aprendendo+novas+linguagens+de+programa%C3%A7%C3%A3o!;Com+foco+e+objetivo+em+sempre+aprender+coisas+novas;Assim%2C+propor+das+minhas+habilidades%2C+conhecimento+e+inova%C3%A7%C3%A3o;a+efic%C3%A1cia+de+um+trabalho+excelente+e+crescimento+profissional." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=8000&pause=1500&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+o+Breno!;Tenho+21+anos+e+res%C3%ADduo+em+S%C3%A3o+Paulo%2FSP.;Atualmente+eu+estudo+An%C3%A1lise+e+Desenvolvimento+de+Sistemas.;Possuo+conhecimento+nas+linguagens+de;HTML5%2C+CSS3%2C+Javascript+e+PHP.;Estou+tamb%C3%A9m+aprendendo+novas+linguagens+de+programa%C3%A7%C3%A3o!;Com+foco+e+objetivo+em+sempre+aprender+coisas+novas;Assim%2C+propor+das+minhas+habilidades%2C+conhecimento+e+inova%C3%A7%C3%A3o;a+efic%C3%A1cia+de+um+trabalho+excelente+e+crescimento+profissional." alt="Typing SVG" /></a>
 </p>
 
 
