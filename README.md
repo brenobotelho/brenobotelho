@@ -30,7 +30,8 @@ _O meu maior objetivo é se tornar um desenvolvedor Full Stack. Gosto de codific
 ## Sobre
 
 * 👨🏻‍💻 Atualmente eu curso Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul;
-* 📚 Possuo conhecimento em HTML, CSS, Javascript e estou aprendendo Vue JS, React e Laravel;
+* 📚 Possuo conhecimento em HTML, CSS, Javascript e PHP. 
+* 🌱 Atualmente estou aprendendo Vue JS, React, Laravel, Node.JS, Banco de Dados e Estruturas de Dados.
 * 🎮 Se você pode imaginar, você pode programar! 
 
 <br>
