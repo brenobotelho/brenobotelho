@@ -32,6 +32,8 @@ _O meu maior objetivo é se tornar um desenvolvedor Full Stack. Gosto de codific
 
 <img src="./images/message.gif" width="350px" align="right">
 
+<br>
+
 ## Sobre
 
 * 👨🏻‍💻 Atualmente eu curso Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul;
