@@ -3,30 +3,23 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-
-
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=1000&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+o+Breno!;Tenho+21+anos+e+res%C3%ADduo+em+S%C3%A3o+Paulo%2FSP.;Atualmente+eu+estudo+An%C3%A1lise+e+Desenvolvimento+de+Sistemas.;Possuo+conhecimento+nas+linguagens+de;HTML5%2C+CSS3%2C+Javascript+e+PHP.;Estou+tamb%C3%A9m+aprendendo+novas+linguagens+de+programa%C3%A7%C3%A3o!;Com+foco+e+objetivo+em+sempre+aprender+coisas+novas;Assim%2C+propor+das+minhas+habilidades%2C+conhecimento+e+inova%C3%A7%C3%A3o;a+efic%C3%A1cia+de+um+trabalho+excelente+e+crescimento+profissional." alt="Typing SVG" /></a>
 </p>
 
+<!-- ICONES REDES SOCIAIS HEADER -->
 
-<!-- ICONES REDES SOCIAIS -->
 <p align="center">
 <a href="https://facebook.com/BrenooBotelho" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/brenobotelho_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discordapp.com/users/811895895461199912/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href = "mailto:bsbotelho2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-	
-	
-  </p>
+</p>
   
-  
-  
- <hr />
- 
+<hr />
  
 _Tenho como objetivo se tornar um desenvolvedor Full Stack. Gosto de codificar, projetar, inovar e experimentar. Sou uma pessoa entusiasmada e sociável que adora aceitar novos desafios e aprender novas habilidades. Adoro conhecer novas pessoas, trocar ideias, espalhar conhecimentos e positividade._
 
@@ -58,11 +51,14 @@ _Tenho como objetivo se tornar um desenvolvedor Full Stack. Gosto de codificar, 
 [![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff)](#)
 [![github](https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff)](#)
 
+## 👾 Redes Sociais
 
-[<img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
-[<img align="left" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-botelho/)](https://www.linkedin.com/in/breno-botelho/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/brenobotelho_)](https://instagram.com/brenobotelho_)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/botelhobs)](https://twitter.com/botelhobs)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bsbotelho2@gmail.com)](mailto:bsbotelho2@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/+5511982717271)](https://t.me/+5511982717271)
 
 
 <br>
