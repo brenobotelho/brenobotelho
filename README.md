@@ -28,7 +28,7 @@
  <hr />
  
  
-_O meu maior objetivo é se tornar um desenvolvedor Full Stack. Gosto de codificar, projetar, inovar e experimentar. Sou uma pessoa entusiasmada e sociável que adora aceitar novos desafios e aprender novas habilidades. Adoro conhecer novas pessoas, trocar ideias, espalhar conhecimentos e positividade._
+_Tenho como objetivo se tornar um desenvolvedor Full Stack. Gosto de codificar, projetar, inovar e experimentar. Sou uma pessoa entusiasmada e sociável que adora aceitar novos desafios e aprender novas habilidades. Adoro conhecer novas pessoas, trocar ideias, espalhar conhecimentos e positividade._
 
 <img src="./images/message.gif" width="350px" align="right">
 
