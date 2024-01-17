@@ -21,7 +21,7 @@
   
 <hr />
  
-_Tenho como objetivo se tornar um desenvolvedor Full Stack. Gosto de codificar, projetar, inovar e experimentar. Sou uma pessoa entusiasmada e sociável que adora aceitar novos desafios e aprender novas habilidades. Adoro conhecer novas pessoas, trocar ideias, espalhar conhecimentos e positividade._
+_Meu objetivo é alcançar a posição de desenvolvedor Full Stack. Tenho paixão por programar, criar designs inovadores e explorar novas ideias. Sou uma pessoa entusiasmada e sociável, sempre disposta a enfrentar desafios e adquirir novas habilidades. Tenho grande interesse em conhecer pessoas, compartilhar ideias e disseminar conhecimento e positividade._
 
 <img src="./images/message.gif" width="350px" align="right">
 
@@ -30,8 +30,8 @@ _Tenho como objetivo se tornar um desenvolvedor Full Stack. Gosto de codificar, 
 ## Sobre
 
 * 👨🏻‍💻 Atualmente eu curso Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul;
-* 📚 Possuo conhecimento em HTML, CSS, Javascript e PHP. 
-* 🌱 Atualmente estou aprendendo Vue JS, React, Laravel, Node.JS, Banco de Dados e Estruturas de Dados.
+* 📚 Possuo conhecimento em HTML, CSS, Javascript, PHP e Banco de Dados (SQL, MySQL). 
+* 🌱 Atualmente estou aprendendo Vue JS, React, Laravel, Node.JS e Estruturas de Dados.
 * 💬  Sinta-se à vontade para entrar em contato comigo e conversarmos sobre vários assuntos! 
 * 💡 Se você pode imaginar, você pode programar! 
 
