@@ -6,7 +6,7 @@
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=8000&pause=1000&color=BC92F7&background=383A5900&center=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+o+Breno!;Tenho+21+anos+e+moro+em+S%C3%A3o+Paulo%2FSP.;Sou+um+Desenvolvedor+Front-End;E+tenho+como+objetivo+me+tornar+um+Desenvolvedor+Full+Stack.;Confira+os+meus+reposit%C3%B3rios+aqui+no+GitHub;E+fique+a+vontade+para+entrar+em+contato+comigo;e+trocarmos+uma+id%C3%A9ia!;Grande+abra%C3%A7o!+%3CDeveloped%2F%3E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=8000&pause=1000&color=BC92F7&background=383A5900&center=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+o+Breno!;Tenho+22+anos+e+moro+em+S%C3%A3o+Paulo%2FSP.;Sou+um+Desenvolvedor+Front-End;E+tenho+como+objetivo+me+tornar+um+Desenvolvedor+Full+Stack.;Confira+os+meus+reposit%C3%B3rios+aqui+no+GitHub;E+fique+a+vontade+para+entrar+em+contato+comigo;e+trocarmos+uma+id%C3%A9ia!;Grande+abra%C3%A7o!+%3CDeveloped%2F%3E" alt="Typing SVG" /></a>
 </p>
 
 <!-- ICONES REDES SOCIAIS HEADER -->
