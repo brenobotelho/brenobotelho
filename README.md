@@ -23,7 +23,7 @@
  
 _Meu objetivo é alcançar a posição de desenvolvedor Full Stack. Tenho paixão por programar, criar designs inovadores e explorar novas ideias. Sou uma pessoa entusiasmada e sociável, sempre disposta a enfrentar desafios e adquirir novas habilidades. Tenho grande interesse em conhecer pessoas, compartilhar ideias e disseminar conhecimento e positividade._
 
-<img src="./images/message.gif" width="350px" align="right">
+<img src="./images/brenoprog.jfif" width="350px" align="right">
 
 <br>
 
